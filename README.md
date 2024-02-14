@@ -17,4 +17,6 @@ Owing to the popularity of this information on X it has been brought to my atten
 
 "Ignored by the mainstream media, I took it upon myself to conduct an analysis of the MPTS’s list of tribunal decisions — an analysis which revealed that non-British doctors (25% of the total) are responsible for at least 80% of tribunal cases, the vast majority of them bearing Muslim, South Asian, or African names (interestingly, Jewish physicians are also over-represented relative to their share of the UK population)."
 
+Dr Joyce's article: https://www.theoccidentalobserver.net/2017/09/05/bad-medicine-the-sickening-truth-about-britains-foreign-doctorsbad-medicine-the-sickening-truth-about-britains-foreign-doctors/
+
 Interestingly, this doesnt differ much from an article in the Telegraph from 2012 which found foreign doctors were 3/4 of malpractice cases involved a foreign trained doctor: https://www.telegraph.co.uk/news/health/news/9771022/Revealed-3-in-4-of-Britains-danger-doctors-are-trained-abroad.html
