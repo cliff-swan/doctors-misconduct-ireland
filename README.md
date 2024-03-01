@@ -1,3 +1,5 @@
+**01/03/24** I will continue to update the list from information released by the Irish Medical Council
+
 The purpose of this repository is to serve as a single tabulated source of the doctors who were involved in misconduct cases as listed on the Irish Medical Council website for the years from 2008 to 2023. 
 
 The tabulated list is shown in the csv file in this repository. There are several duplicates listed on the Irish Medical Council website, these have been removed from this list. 
