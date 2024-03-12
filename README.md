@@ -10,6 +10,8 @@ Where there is no clear information on this and they have atypical names, as is 
 
 From this I find that over 80% of the cases listed involve a non-Irish doctor. When migrant doctors themselves represent 40% of the doctors in Ireland.
 
+![Pie chart]([image link](https://pbs.twimg.com/media/GIewRdOWUAAkzcy?format=jpg&name=large))
+
 In 2011, the figure reported was 60% of cases involving a foreign doctor: https://www.irishexaminer.com/news/arid-20141083.html
 
 The source for the information is here: https://www.medicalcouncil.ie/public-information/inquiry-notifications/fitness-to-practise-notifications/fitness-to-practise-inquiry-notifications-.html
