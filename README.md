@@ -14,7 +14,7 @@ From this I find that over 80% of the cases listed involve a non-Irish doctor. W
 
 In 2011, the figure reported was 60% of cases involving a foreign doctor: https://www.irishexaminer.com/news/arid-20141083.html
 
-The source for the information is here: https://www.medicalcouncil.ie/public-information/inquiry-notifications/fitness-to-practise-notifications/fitness-to-practise-inquiry-notifications-.html
+The source for the information is here: https://www.medicalcouncil.ie/complaints/past-inquiries/
 
 Addendum 14/02/2024:
 Owing to the popularity of this information on X it has been brought to my attention that the situation in the UK is not much better. By analysing Medical Practitioners Tribunal Service cases, Dr. Andrew Joyce has found that foreign doctors account for at least 80% of the cases brought before the tribunal. Here is a quote:
