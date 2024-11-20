@@ -1,4 +1,4 @@
-**12/03/24** I will continue to update the list from information released by the Irish Medical Council. Some which were listed in 2023 have been moved to 2024 as their cases have just finished in the courts.
+**20/11/24** I will continue to update the list from information released by the Irish Medical Council. Some which were listed in 2023 have been moved to 2024 as their cases have just finished in the courts.
 
 The purpose of this repository is to serve as a single tabulated source of the doctors who were involved in misconduct cases as listed on the Irish Medical Council website for the years from 2008 to 2023. 
 
